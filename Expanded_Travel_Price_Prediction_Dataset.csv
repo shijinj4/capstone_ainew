@@ -1,0 +1,501 @@
+Destination,Trip Duration (Days),Accommodation Type,Accommodation Cost (per day),Activity Preference,Activity Cost (per day),Dining Preference,Dining Cost (per day),Transportation Cost,Flight Cost,Seasonality Factor,Total Estimated Cost
+Istanbul,12,Hotel,110,Cultural Experiences,90,Mid-range,59,83,497,1.2,4425.599999999999
+New York,13,Airbnb,59,Cultural Experiences,82,Mid-range,41,190,270,1.0,2826.0
+Los Angeles,2,Hotel,166,Sightseeing,47,High-end,95,111,300,0.8,821.6
+San Francisco,11,Hotel,113,Adventure Sports,147,High-end,122,167,563,1.2,5918.4
+Dubai,3,Airbnb,129,Sightseeing,39,High-end,86,149,1069,1.0,1980.0
+Sydney,3,Hotel,173,Sightseeing,54,Budget,13,71,1301,1.0,2092.0
+Shanghai,4,Hotel,192,Sightseeing,36,High-end,130,160,300,1.2,2270.4
+Cairo,4,Hostel,29,Adventure Sports,112,High-end,111,122,300,1.2,1716.0
+London,10,Hotel,175,Sightseeing,46,High-end,87,196,300,1.2,4291.2
+Sydney,11,Airbnb,143,Adventure Sports,103,Mid-range,30,87,1262,1.2,5262.0
+Sydney,11,Airbnb,50,Sightseeing,58,High-end,124,119,775,1.2,4135.2
+Istanbul,5,Hotel,104,Cultural Experiences,83,Budget,15,165,449,0.8,1299.2
+Rome,4,Hostel,39,Sightseeing,57,Mid-range,56,128,657,0.8,1114.4
+San Francisco,11,Hostel,27,Sightseeing,55,Budget,13,197,415,1.0,1657.0
+Tokyo,14,Hotel,142,Cultural Experiences,92,High-end,146,58,1405,0.8,5426.400000000001
+Mumbai,10,Hotel,175,Adventure Sports,120,Mid-range,58,81,300,0.8,3128.8
+Tokyo,8,Airbnb,50,Adventure Sports,118,Budget,18,181,1427,0.8,2476.8
+Moscow,6,Hotel,156,Sightseeing,51,High-end,108,99,300,1.2,2746.7999999999997
+Sydney,6,Hostel,41,Cultural Experiences,98,Budget,11,131,1063,1.0,2094.0
+Shanghai,8,Hotel,183,Adventure Sports,96,Budget,11,54,300,1.0,2674.0
+Mumbai,7,Airbnb,77,Sightseeing,31,Budget,16,197,300,1.0,1365.0
+Dubai,10,Airbnb,86,Cultural Experiences,55,High-end,123,136,1282,1.0,4058.0
+Rome,14,Airbnb,96,Adventure Sports,149,High-end,83,175,383,0.8,4120.0
+Bangkok,11,Airbnb,125,Adventure Sports,144,Budget,19,124,300,0.8,2873.6000000000004
+Mumbai,12,Airbnb,86,Cultural Experiences,59,Mid-range,37,71,300,1.2,3066.0
+Cairo,10,Hotel,148,Cultural Experiences,70,Mid-range,38,117,300,1.0,2977.0
+Tokyo,13,Hotel,143,Cultural Experiences,54,High-end,84,93,1398,0.8,4115.2
+San Francisco,8,Hotel,155,Cultural Experiences,51,High-end,135,83,492,0.8,2642.4
+Mumbai,14,Hotel,127,Sightseeing,51,High-end,129,126,300,1.2,5668.8
+Mumbai,2,Airbnb,128,Cultural Experiences,97,High-end,94,91,300,1.2,1234.8
+Toronto,9,Hostel,25,Adventure Sports,136,High-end,111,186,300,1.2,3520.7999999999997
+Moscow,1,Hotel,160,Adventure Sports,145,Mid-range,57,155,300,0.8,653.6
+Cairo,8,Hostel,39,Sightseeing,39,High-end,101,144,300,0.8,1500.8000000000002
+Los Angeles,12,Hotel,177,Adventure Sports,95,Budget,18,184,300,1.2,4756.8
+Mumbai,11,Hotel,101,Adventure Sports,130,Budget,10,117,300,1.0,3068.0
+Sydney,12,Hostel,28,Cultural Experiences,88,Mid-range,56,196,1137,1.2,4076.3999999999996
+Bangkok,12,Airbnb,86,Adventure Sports,119,Budget,19,177,300,1.2,3798.0
+San Francisco,4,Hotel,119,Sightseeing,35,Mid-range,41,134,495,1.2,1690.8
+Los Angeles,4,Hotel,125,Cultural Experiences,59,Mid-range,36,132,300,1.2,1574.3999999999999
+Bangkok,5,Hotel,128,Cultural Experiences,84,Budget,19,144,300,0.8,1279.2
+San Francisco,8,Hostel,20,Sightseeing,48,High-end,136,81,271,1.0,1984.0
+Dubai,5,Airbnb,84,Cultural Experiences,98,Budget,19,115,795,1.2,2298.0
+Rio de Janeiro,8,Hostel,25,Cultural Experiences,81,Budget,18,165,300,1.0,1457.0
+Toronto,10,Hostel,24,Sightseeing,36,Mid-range,39,187,300,1.0,1477.0
+Los Angeles,1,Airbnb,108,Cultural Experiences,70,Budget,12,179,300,1.0,669.0
+Amsterdam,12,Hostel,24,Sightseeing,49,Mid-range,40,109,300,1.2,2118.0
+Moscow,10,Airbnb,82,Sightseeing,55,High-end,132,66,300,0.8,2444.8
+Rome,9,Hotel,150,Adventure Sports,147,High-end,147,145,535,1.2,5611.2
+Tokyo,6,Airbnb,127,Adventure Sports,94,High-end,107,193,555,1.0,2716.0
+Bangkok,3,Hotel,111,Cultural Experiences,89,Budget,10,65,300,1.0,995.0
+Toronto,13,Hostel,29,Cultural Experiences,70,Mid-range,46,95,300,0.8,1824.0
+Sydney,14,Hostel,39,Sightseeing,44,High-end,126,156,1418,1.2,5400.0
+Moscow,8,Hotel,152,Cultural Experiences,71,Mid-range,49,137,300,1.0,2613.0
+Dubai,9,Hostel,37,Sightseeing,49,Mid-range,35,178,859,0.8,1700.8000000000002
+Cairo,6,Airbnb,137,Sightseeing,57,High-end,133,188,300,1.0,2450.0
+Istanbul,11,Hotel,142,Cultural Experiences,63,High-end,139,168,794,0.8,3796.8
+Dubai,7,Hostel,49,Sightseeing,56,Mid-range,54,134,609,0.8,1484.8000000000002
+Rio de Janeiro,1,Hotel,197,Adventure Sports,119,High-end,126,53,300,1.2,954.0
+Rome,14,Airbnb,138,Cultural Experiences,77,Mid-range,38,120,491,1.0,4153.0
+Tokyo,5,Airbnb,99,Adventure Sports,105,Mid-range,43,160,1403,1.2,3357.6
+London,5,Hostel,48,Cultural Experiences,98,High-end,105,99,300,1.0,1654.0
+London,10,Airbnb,106,Sightseeing,31,Budget,10,189,300,1.2,2350.7999999999997
+Shanghai,14,Hotel,138,Cultural Experiences,74,High-end,84,144,300,1.0,4588.0
+Amsterdam,4,Airbnb,144,Adventure Sports,82,Budget,13,141,300,1.2,1676.3999999999999
+Bangkok,6,Hotel,155,Sightseeing,37,Mid-range,49,114,300,0.8,1488.0
+San Francisco,7,Hotel,142,Cultural Experiences,93,Mid-range,38,96,292,1.0,2299.0
+Istanbul,9,Airbnb,99,Cultural Experiences,82,Budget,17,155,749,1.0,2686.0
+Bangkok,1,Hostel,42,Cultural Experiences,91,Mid-range,51,179,300,0.8,530.4
+Mumbai,6,Airbnb,93,Adventure Sports,85,Budget,10,155,300,1.2,1899.6
+Berlin,7,Hotel,137,Adventure Sports,118,Budget,11,73,355,1.0,2290.0
+Dubai,3,Hotel,183,Cultural Experiences,72,Mid-range,35,53,559,1.0,1482.0
+Rio de Janeiro,8,Airbnb,72,Sightseeing,54,Budget,11,157,300,1.2,1863.6
+Cairo,5,Hostel,49,Sightseeing,56,High-end,94,68,300,0.8,1090.4
+Barcelona,9,Hostel,32,Adventure Sports,129,High-end,140,89,437,1.2,3882.0
+Istanbul,5,Hotel,151,Sightseeing,40,Mid-range,55,99,438,1.2,2120.4
+San Francisco,9,Hotel,179,Adventure Sports,98,Mid-range,50,124,227,1.2,3952.7999999999997
+Shanghai,10,Hostel,37,Cultural Experiences,54,Budget,14,61,300,1.0,1411.0
+New York,4,Airbnb,57,Adventure Sports,130,Budget,15,76,248,0.8,905.6
+Rome,9,Hotel,184,Adventure Sports,90,Budget,15,162,424,0.8,2549.6000000000004
+Rome,5,Hotel,100,Cultural Experiences,61,Budget,15,98,312,1.2,1548.0
+Berlin,10,Hostel,42,Sightseeing,39,High-end,141,193,335,1.0,2748.0
+Los Angeles,9,Airbnb,57,Adventure Sports,87,High-end,125,179,300,1.2,3480.0
+Barcelona,3,Hostel,48,Adventure Sports,103,Mid-range,42,109,400,1.0,1088.0
+Moscow,4,Airbnb,145,Cultural Experiences,77,Budget,12,79,300,1.0,1315.0
+Cairo,9,Airbnb,54,Sightseeing,38,Budget,15,133,300,1.0,1396.0
+Paris,10,Airbnb,135,Adventure Sports,115,Mid-range,58,77,581,1.0,3738.0
+Toronto,11,Hotel,146,Cultural Experiences,86,Budget,17,74,300,0.8,2490.4
+Mumbai,6,Hostel,21,Adventure Sports,134,Budget,10,145,300,1.0,1435.0
+Dubai,2,Hostel,20,Cultural Experiences,58,Budget,10,174,585,1.0,935.0
+Cairo,7,Airbnb,104,Sightseeing,44,Budget,11,59,300,1.2,1766.3999999999999
+Sydney,2,Hotel,189,Sightseeing,44,Budget,15,91,1015,1.2,1922.3999999999999
+Sydney,11,Hotel,142,Sightseeing,45,Mid-range,38,89,722,0.8,2628.8
+Berlin,2,Hostel,29,Sightseeing,43,Budget,13,126,637,1.2,1119.6
+Los Angeles,11,Hotel,129,Adventure Sports,121,Mid-range,32,154,300,1.0,3556.0
+Bangkok,1,Hotel,181,Adventure Sports,139,Budget,17,167,300,1.2,964.8
+Dubai,11,Airbnb,66,Sightseeing,49,High-end,143,91,1459,0.8,3510.4
+Istanbul,11,Hotel,125,Sightseeing,35,High-end,138,96,565,1.2,4726.8
+Los Angeles,12,Airbnb,57,Sightseeing,41,High-end,141,71,300,1.2,3886.7999999999997
+Dubai,11,Hostel,34,Adventure Sports,81,High-end,90,156,882,0.8,2634.4
+Tokyo,3,Hotel,175,Sightseeing,36,Mid-range,34,76,1355,0.8,1732.8000000000002
+Cairo,6,Hostel,46,Sightseeing,45,Mid-range,54,90,300,1.0,1260.0
+Cairo,8,Hostel,27,Sightseeing,32,Budget,11,129,300,1.2,1186.8
+Shanghai,9,Hotel,188,Cultural Experiences,94,High-end,98,138,300,1.0,3858.0
+Toronto,7,Hotel,145,Sightseeing,32,Mid-range,52,115,300,1.2,2421.6
+Barcelona,4,Hostel,23,Cultural Experiences,76,Budget,16,61,682,1.2,1443.6
+San Francisco,6,Hotel,132,Cultural Experiences,99,Budget,15,122,575,1.0,2173.0
+Dubai,5,Airbnb,50,Sightseeing,40,Mid-range,51,125,970,1.2,2160.0
+Paris,8,Airbnb,68,Cultural Experiences,89,High-end,105,139,577,1.2,3374.4
+Tokyo,1,Hotel,130,Sightseeing,35,Budget,15,59,1141,1.2,1656.0
+Cairo,1,Hostel,35,Adventure Sports,112,High-end,83,145,300,0.8,540.0
+Mumbai,13,Hotel,113,Adventure Sports,80,High-end,108,69,300,1.0,4282.0
+Paris,11,Hotel,152,Adventure Sports,87,High-end,138,88,330,0.8,3652.0
+Berlin,6,Hostel,35,Adventure Sports,111,Budget,11,109,674,1.0,1725.0
+Berlin,10,Hostel,24,Cultural Experiences,97,High-end,96,115,310,1.0,2595.0
+Bangkok,12,Airbnb,139,Sightseeing,40,Budget,14,114,300,1.2,3276.0
+Cairo,2,Hostel,49,Sightseeing,34,High-end,145,173,300,1.0,929.0
+Cairo,5,Airbnb,141,Sightseeing,33,Budget,11,179,300,0.8,1123.2
+Amsterdam,1,Hostel,21,Adventure Sports,149,High-end,87,106,300,0.8,530.4
+Moscow,7,Hotel,163,Adventure Sports,98,Mid-range,42,127,300,0.8,2038.4
+London,1,Airbnb,119,Sightseeing,38,High-end,87,78,300,1.0,622.0
+Rome,4,Airbnb,112,Adventure Sports,91,High-end,144,64,601,0.8,1642.4
+Sydney,9,Airbnb,122,Sightseeing,40,Budget,16,61,595,1.0,2258.0
+Tokyo,1,Hotel,132,Sightseeing,43,Budget,10,150,689,0.8,819.2
+Los Angeles,4,Hotel,140,Sightseeing,52,High-end,138,133,300,0.8,1402.4
+Toronto,6,Hotel,188,Sightseeing,45,Mid-range,49,174,300,1.0,2166.0
+Shanghai,6,Hotel,147,Sightseeing,30,Mid-range,53,152,300,0.8,1465.6000000000001
+Amsterdam,12,Hotel,112,Sightseeing,42,Budget,11,73,300,1.2,2823.6
+San Francisco,13,Airbnb,122,Sightseeing,52,Mid-range,51,198,391,1.0,3514.0
+Mumbai,8,Hotel,176,Adventure Sports,100,High-end,123,187,300,1.0,3679.0
+Rio de Janeiro,1,Airbnb,80,Sightseeing,59,Budget,18,159,300,1.0,616.0
+Amsterdam,7,Hotel,174,Sightseeing,42,High-end,116,127,300,1.2,3301.2
+Paris,1,Hostel,23,Adventure Sports,113,Budget,19,150,565,1.0,870.0
+Tokyo,13,Airbnb,147,Adventure Sports,83,Budget,13,195,923,0.8,3421.6000000000004
+Moscow,14,Hostel,48,Adventure Sports,107,Budget,14,191,300,0.8,2285.6
+London,7,Airbnb,53,Sightseeing,35,Budget,19,177,300,0.8,980.8000000000001
+Bangkok,3,Hostel,25,Cultural Experiences,80,Mid-range,40,107,300,1.0,842.0
+Istanbul,11,Hotel,118,Cultural Experiences,76,High-end,121,125,527,0.8,3293.6000000000004
+Moscow,8,Hotel,169,Adventure Sports,148,High-end,145,199,300,1.0,4195.0
+Barcelona,3,Hotel,197,Cultural Experiences,74,High-end,134,85,537,0.8,1469.6000000000001
+Berlin,14,Airbnb,131,Adventure Sports,82,Budget,17,71,654,1.2,4734.0
+Bangkok,14,Hostel,32,Sightseeing,30,Mid-range,45,176,300,1.2,2368.7999999999997
+Barcelona,13,Hotel,122,Cultural Experiences,53,High-end,101,129,411,1.2,4953.599999999999
+Sydney,1,Hostel,38,Sightseeing,54,Mid-range,34,149,1327,1.2,1922.3999999999999
+Barcelona,13,Hostel,32,Cultural Experiences,69,Budget,18,145,642,1.0,2334.0
+Shanghai,13,Hotel,174,Sightseeing,31,High-end,146,197,300,0.8,4048.0
+Rome,14,Hotel,100,Cultural Experiences,75,Mid-range,41,67,444,1.2,4242.0
+San Francisco,8,Hostel,43,Sightseeing,59,Budget,19,87,264,1.0,1319.0
+Sydney,3,Hotel,153,Sightseeing,59,Mid-range,33,158,746,1.2,1966.8
+Mumbai,2,Hotel,170,Cultural Experiences,54,High-end,88,172,300,1.2,1315.2
+San Francisco,1,Hotel,188,Sightseeing,32,High-end,133,193,422,1.0,968.0
+Paris,14,Airbnb,134,Sightseeing,58,Budget,17,198,612,1.0,3736.0
+Toronto,3,Hostel,34,Sightseeing,57,Budget,16,153,300,0.8,619.2
+Cairo,2,Hostel,20,Cultural Experiences,78,Budget,11,189,300,0.8,565.6
+Moscow,2,Airbnb,125,Cultural Experiences,58,Mid-range,48,193,300,1.2,1146.0
+Cairo,6,Hostel,45,Sightseeing,49,Mid-range,30,130,300,1.2,1408.8
+Rio de Janeiro,12,Hotel,170,Sightseeing,35,Mid-range,54,136,300,0.8,2835.2000000000003
+Tokyo,1,Hostel,34,Cultural Experiences,99,Budget,16,191,938,0.8,1022.4000000000001
+Berlin,2,Hotel,120,Cultural Experiences,55,High-end,146,110,405,1.0,1157.0
+Shanghai,14,Airbnb,68,Sightseeing,48,High-end,99,95,300,0.8,2724.0
+Los Angeles,6,Hotel,159,Sightseeing,57,Mid-range,50,81,300,0.8,1581.6000000000001
+Rome,3,Hostel,48,Sightseeing,41,Mid-range,59,64,480,1.2,1185.6
+Amsterdam,4,Hostel,44,Adventure Sports,90,High-end,114,93,300,0.8,1108.0
+New York,1,Hostel,20,Cultural Experiences,51,High-end,96,194,383,1.2,892.8
+Istanbul,8,Airbnb,98,Adventure Sports,126,Mid-range,47,103,625,0.8,2316.8
+Shanghai,13,Airbnb,145,Cultural Experiences,93,Mid-range,42,93,300,1.0,4033.0
+Cairo,7,Hostel,36,Cultural Experiences,93,High-end,132,147,300,0.8,1819.2
+Rome,7,Hotel,134,Cultural Experiences,58,Budget,11,54,564,0.8,1631.2
+Paris,3,Airbnb,93,Cultural Experiences,70,Mid-range,33,158,577,0.8,1058.4
+Paris,10,Hostel,25,Cultural Experiences,73,High-end,144,76,696,1.2,3830.3999999999996
+Shanghai,10,Hostel,45,Cultural Experiences,83,High-end,80,165,300,1.0,2545.0
+Amsterdam,3,Airbnb,60,Cultural Experiences,71,High-end,137,136,300,0.8,992.0
+Mumbai,14,Airbnb,148,Adventure Sports,82,High-end,105,153,300,1.2,6171.599999999999
+London,2,Airbnb,121,Sightseeing,41,Budget,13,172,300,1.0,822.0
+Mumbai,12,Hotel,177,Sightseeing,57,High-end,89,128,300,1.2,5164.8
+Cairo,1,Hotel,173,Adventure Sports,109,Mid-range,56,92,300,1.2,876.0
+Paris,7,Hostel,21,Adventure Sports,100,Budget,18,146,388,1.0,1507.0
+New York,7,Airbnb,95,Adventure Sports,107,High-end,84,80,375,0.8,1965.6000000000001
+San Francisco,12,Hotel,108,Adventure Sports,141,Budget,19,148,217,1.2,4297.2
+Tokyo,2,Airbnb,52,Cultural Experiences,82,Mid-range,30,66,870,1.2,1516.8
+Paris,7,Hostel,40,Sightseeing,50,High-end,96,132,698,0.8,1705.6000000000001
+Moscow,13,Hotel,125,Cultural Experiences,84,Mid-range,51,159,300,0.8,3071.2000000000003
+Berlin,8,Hotel,171,Sightseeing,49,High-end,120,81,405,1.0,3206.0
+Mumbai,1,Hotel,147,Sightseeing,31,High-end,147,190,300,1.0,815.0
+Rome,9,Hostel,21,Adventure Sports,120,High-end,148,84,570,1.0,3255.0
+Rome,7,Airbnb,119,Cultural Experiences,96,High-end,90,182,618,0.8,2348.0
+Berlin,3,Hotel,127,Adventure Sports,137,High-end,135,78,466,1.2,2089.2
+Tokyo,8,Hostel,40,Cultural Experiences,60,Budget,12,119,1024,1.2,2446.7999999999997
+Rome,7,Airbnb,142,Sightseeing,54,High-end,100,144,636,1.0,2852.0
+Rome,11,Hostel,45,Adventure Sports,102,High-end,105,71,331,0.8,2539.2000000000003
+Istanbul,13,Airbnb,74,Adventure Sports,127,Budget,12,118,792,1.2,4414.8
+Istanbul,8,Hostel,31,Sightseeing,51,Budget,12,138,439,1.0,1329.0
+Los Angeles,6,Airbnb,54,Sightseeing,46,Budget,16,121,300,1.2,1340.3999999999999
+Mumbai,9,Hotel,197,Sightseeing,34,Budget,16,178,300,1.2,3241.2
+Rio de Janeiro,5,Airbnb,97,Adventure Sports,90,Budget,16,136,300,0.8,1160.8
+San Francisco,3,Hostel,24,Cultural Experiences,79,Budget,19,145,347,0.8,686.4000000000001
+Rio de Janeiro,3,Hostel,34,Adventure Sports,94,High-end,119,124,300,1.2,1398.0
+Paris,1,Airbnb,93,Cultural Experiences,76,High-end,84,103,517,1.0,873.0
+Los Angeles,12,Hotel,199,Adventure Sports,114,Mid-range,50,137,300,0.8,3834.4
+Cairo,8,Hotel,114,Adventure Sports,112,High-end,83,103,300,1.2,3450.0
+Cairo,2,Airbnb,92,Sightseeing,49,High-end,102,65,300,0.8,680.8000000000001
+Sydney,3,Airbnb,97,Cultural Experiences,65,Budget,19,148,1230,0.8,1536.8000000000002
+Paris,8,Hostel,42,Adventure Sports,113,Budget,13,69,381,0.8,1435.2
+Mumbai,14,Hotel,169,Adventure Sports,145,High-end,94,95,300,1.2,7328.4
+Barcelona,8,Airbnb,95,Sightseeing,32,Mid-range,47,176,632,1.0,2200.0
+New York,14,Hotel,142,Sightseeing,37,Budget,13,107,407,1.0,3202.0
+Barcelona,11,Airbnb,70,Cultural Experiences,77,High-end,87,160,500,1.0,3234.0
+Dubai,4,Airbnb,72,Adventure Sports,126,High-end,120,178,946,0.8,1916.8000000000002
+New York,4,Hotel,179,Cultural Experiences,88,Mid-range,45,130,531,1.2,2290.7999999999997
+Tokyo,5,Airbnb,96,Adventure Sports,149,Mid-range,48,133,927,0.8,2020.0
+Shanghai,6,Airbnb,64,Cultural Experiences,58,Budget,16,119,300,1.0,1247.0
+Bangkok,5,Hostel,44,Sightseeing,49,Mid-range,43,57,300,1.0,1037.0
+Paris,14,Airbnb,85,Adventure Sports,80,High-end,107,78,337,1.2,5067.599999999999
+Bangkok,7,Airbnb,124,Cultural Experiences,57,High-end,147,161,300,0.8,2205.6
+Rome,2,Airbnb,100,Sightseeing,52,Mid-range,55,180,510,1.0,1104.0
+Mumbai,7,Hostel,34,Sightseeing,52,Mid-range,44,157,300,1.2,1640.3999999999999
+Moscow,10,Hotel,167,Cultural Experiences,52,Mid-range,32,158,300,0.8,2374.4
+Amsterdam,7,Hostel,40,Adventure Sports,83,Mid-range,34,69,300,0.8,1174.4
+Amsterdam,1,Hostel,32,Adventure Sports,137,Budget,10,122,300,1.0,601.0
+Rome,7,Hotel,185,Sightseeing,54,Mid-range,32,53,626,1.0,2576.0
+Rio de Janeiro,5,Hostel,38,Adventure Sports,126,Budget,17,68,300,0.8,1018.4000000000001
+New York,3,Hotel,133,Adventure Sports,117,High-end,106,151,448,0.8,1333.6000000000001
+London,13,Hostel,33,Adventure Sports,94,Mid-range,37,190,300,1.0,2622.0
+Los Angeles,3,Hotel,167,Sightseeing,50,Budget,13,190,300,0.8,944.0
+Dubai,4,Airbnb,101,Cultural Experiences,84,Mid-range,31,135,726,1.0,1725.0
+Berlin,13,Hostel,33,Adventure Sports,136,High-end,103,101,347,0.8,3187.2000000000003
+New York,12,Hostel,46,Sightseeing,50,High-end,103,160,217,1.0,2765.0
+Berlin,2,Hostel,48,Sightseeing,50,High-end,83,158,699,1.2,1462.8
+Shanghai,2,Hostel,34,Cultural Experiences,95,Mid-range,32,135,300,1.0,757.0
+New York,1,Airbnb,77,Adventure Sports,93,Mid-range,31,92,494,1.0,787.0
+Shanghai,5,Hostel,22,Adventure Sports,96,Budget,18,91,300,1.2,1285.2
+Amsterdam,4,Airbnb,57,Cultural Experiences,88,High-end,128,139,300,0.8,1224.8
+Los Angeles,11,Airbnb,65,Cultural Experiences,58,Mid-range,52,164,300,1.2,2866.7999999999997
+New York,10,Airbnb,85,Sightseeing,32,High-end,132,75,395,1.0,2960.0
+Toronto,2,Airbnb,79,Sightseeing,57,High-end,102,92,300,0.8,694.4000000000001
+Berlin,3,Hotel,117,Cultural Experiences,62,Budget,14,126,486,1.2,1429.2
+Paris,7,Hotel,101,Adventure Sports,85,Budget,14,186,644,0.8,1784.0
+Amsterdam,7,Hostel,36,Sightseeing,56,Budget,18,69,300,0.8,911.2
+Istanbul,12,Hotel,176,Sightseeing,56,Budget,18,88,623,1.2,4453.2
+Los Angeles,4,Hotel,103,Adventure Sports,102,High-end,139,61,300,0.8,1389.6000000000001
+Mumbai,5,Hostel,45,Sightseeing,56,Budget,15,60,300,1.2,1128.0
+Rome,5,Hostel,44,Adventure Sports,125,Budget,15,91,617,1.0,1628.0
+Sydney,6,Hostel,49,Adventure Sports,117,Budget,14,60,987,0.8,1701.6000000000001
+Istanbul,14,Hotel,174,Adventure Sports,93,Budget,18,87,796,1.0,4873.0
+Mumbai,9,Hotel,106,Cultural Experiences,85,High-end,89,147,300,1.0,2967.0
+Istanbul,2,Hostel,31,Cultural Experiences,57,Budget,17,68,764,0.8,833.6
+Mumbai,5,Airbnb,123,Cultural Experiences,84,High-end,86,183,300,1.2,2337.6
+Toronto,12,Hostel,26,Adventure Sports,98,Mid-range,36,165,300,0.8,1908.0
+Rome,3,Airbnb,62,Adventure Sports,109,High-end,117,162,636,1.0,1662.0
+New York,4,Airbnb,80,Cultural Experiences,63,High-end,140,114,428,1.0,1674.0
+Berlin,10,Hostel,26,Sightseeing,56,Budget,13,148,689,1.2,2144.4
+New York,6,Hostel,43,Adventure Sports,104,Mid-range,32,121,276,0.8,1176.8
+Cairo,12,Hostel,36,Sightseeing,37,Mid-range,48,101,300,1.0,1853.0
+London,8,Hotel,141,Sightseeing,53,Mid-range,51,167,300,1.0,2427.0
+London,1,Airbnb,110,Adventure Sports,93,Mid-range,44,169,300,1.0,716.0
+Moscow,10,Hotel,141,Adventure Sports,105,High-end,147,56,300,1.2,5143.2
+London,14,Hotel,155,Sightseeing,35,Mid-range,57,60,300,1.0,3818.0
+Los Angeles,8,Hostel,23,Sightseeing,52,High-end,117,152,300,1.0,1988.0
+Amsterdam,11,Hotel,183,Cultural Experiences,71,High-end,115,110,300,0.8,3575.2000000000003
+Moscow,14,Hostel,23,Cultural Experiences,97,High-end,120,117,300,0.8,3021.6000000000004
+London,7,Airbnb,56,Adventure Sports,130,Mid-range,34,189,300,1.0,2029.0
+Moscow,1,Hostel,41,Cultural Experiences,52,Budget,16,151,300,1.0,560.0
+Barcelona,2,Hotel,100,Cultural Experiences,91,Budget,19,159,487,0.8,852.8000000000001
+Sydney,3,Hotel,143,Cultural Experiences,68,Mid-range,47,189,1357,1.2,2784.0
+Barcelona,1,Hostel,43,Cultural Experiences,58,Budget,14,100,569,1.2,940.8
+Sydney,14,Hostel,32,Sightseeing,57,Budget,18,166,1106,1.2,3324.0
+Tokyo,9,Hotel,146,Adventure Sports,124,High-end,106,95,809,1.2,5145.599999999999
+Tokyo,8,Airbnb,62,Cultural Experiences,56,High-end,130,102,631,1.2,3260.4
+Shanghai,2,Airbnb,71,Sightseeing,43,Mid-range,43,137,300,1.2,901.1999999999999
+Los Angeles,13,Hostel,41,Sightseeing,38,Mid-range,54,170,300,1.2,2638.7999999999997
+Los Angeles,9,Airbnb,70,Sightseeing,56,Budget,15,62,300,1.2,1957.1999999999998
+Rome,7,Hotel,185,Cultural Experiences,68,High-end,118,138,338,0.8,2458.4
+Shanghai,9,Hostel,47,Cultural Experiences,96,Mid-range,45,174,300,1.2,2599.2
+Istanbul,6,Hotel,108,Adventure Sports,93,Mid-range,53,167,471,1.2,2594.4
+Berlin,6,Hotel,125,Cultural Experiences,87,Mid-range,51,103,580,1.2,2713.2
+Paris,11,Airbnb,58,Cultural Experiences,85,Mid-range,50,165,632,1.0,2920.0
+Rome,14,Hostel,34,Sightseeing,37,Mid-range,51,167,459,0.8,1867.2
+San Francisco,4,Hostel,29,Adventure Sports,109,Mid-range,50,53,386,0.8,952.8000000000001
+Bangkok,10,Airbnb,137,Cultural Experiences,58,Budget,17,124,300,0.8,2035.2
+Rio de Janeiro,10,Hotel,141,Cultural Experiences,82,High-end,95,98,300,1.2,4293.599999999999
+New York,13,Hotel,171,Sightseeing,53,High-end,138,56,390,1.2,6182.4
+Mumbai,13,Hotel,123,Sightseeing,49,Mid-range,52,159,300,1.0,3371.0
+Rio de Janeiro,2,Hotel,179,Cultural Experiences,74,High-end,110,171,300,0.8,957.6
+Cairo,7,Hostel,36,Adventure Sports,93,High-end,121,60,300,1.2,2532.0
+San Francisco,5,Hostel,45,Adventure Sports,132,High-end,111,141,319,0.8,1520.0
+Amsterdam,11,Airbnb,140,Sightseeing,32,Mid-range,56,72,300,1.0,2880.0
+Amsterdam,6,Airbnb,86,Sightseeing,38,Mid-range,31,77,300,1.0,1307.0
+London,2,Hostel,23,Cultural Experiences,63,High-end,88,160,300,1.0,808.0
+Moscow,5,Hostel,37,Sightseeing,59,High-end,90,106,300,0.8,1068.8
+Mumbai,10,Hotel,123,Cultural Experiences,90,Mid-range,39,75,300,1.2,3474.0
+Sydney,4,Hotel,118,Adventure Sports,147,Budget,15,103,719,1.2,2330.4
+Paris,9,Airbnb,149,Adventure Sports,147,High-end,96,78,352,1.0,3958.0
+Barcelona,6,Hostel,47,Cultural Experiences,77,Budget,13,146,521,1.2,1786.8
+Mumbai,2,Airbnb,88,Sightseeing,37,High-end,127,63,300,1.0,867.0
+Tokyo,1,Hostel,29,Adventure Sports,81,Budget,13,127,950,0.8,960.0
+Toronto,5,Hotel,188,Sightseeing,38,Budget,18,84,300,1.0,1604.0
+Amsterdam,9,Airbnb,67,Adventure Sports,120,Budget,14,79,300,0.8,1750.4
+Amsterdam,6,Airbnb,68,Cultural Experiences,65,Mid-range,34,141,300,1.0,1443.0
+Rio de Janeiro,10,Hostel,23,Cultural Experiences,78,Budget,15,66,300,1.2,1831.2
+Rio de Janeiro,12,Hotel,173,Cultural Experiences,98,Budget,10,142,300,1.2,4576.8
+New York,7,Airbnb,146,Adventure Sports,127,Budget,10,128,330,1.0,2439.0
+Cairo,5,Hotel,154,Sightseeing,59,High-end,142,159,300,1.2,2680.7999999999997
+Rio de Janeiro,10,Airbnb,118,Sightseeing,41,Budget,18,151,300,1.2,2665.2
+Los Angeles,6,Hotel,146,Sightseeing,32,High-end,130,155,300,1.2,2763.6
+Dubai,5,Hostel,36,Adventure Sports,90,Budget,13,96,736,0.8,1221.6000000000001
+Tokyo,11,Airbnb,148,Adventure Sports,143,Budget,10,113,1257,1.2,5617.2
+Amsterdam,9,Airbnb,147,Adventure Sports,129,Mid-range,38,113,300,0.8,2591.2000000000003
+Rio de Janeiro,6,Hotel,132,Adventure Sports,100,High-end,145,136,300,1.0,2698.0
+London,11,Hotel,120,Adventure Sports,148,Budget,17,56,300,1.2,4189.2
+Amsterdam,8,Airbnb,130,Sightseeing,45,High-end,94,71,300,1.2,3027.6
+Cairo,2,Hostel,41,Adventure Sports,99,High-end,118,130,300,1.2,1135.2
+Shanghai,12,Hotel,147,Adventure Sports,146,Mid-range,56,123,300,1.0,4611.0
+Berlin,13,Hotel,136,Sightseeing,41,Mid-range,35,187,525,0.8,2774.4
+Tokyo,9,Hotel,114,Adventure Sports,112,Mid-range,30,184,1219,0.8,2965.6000000000004
+Los Angeles,5,Airbnb,84,Sightseeing,50,Mid-range,44,174,300,1.2,1636.8
+Amsterdam,7,Airbnb,141,Sightseeing,58,Mid-range,52,99,300,1.0,2156.0
+Rome,10,Airbnb,120,Cultural Experiences,58,Mid-range,55,101,395,1.0,2826.0
+Istanbul,13,Airbnb,81,Cultural Experiences,58,Mid-range,36,50,599,1.0,2924.0
+Dubai,1,Hostel,30,Cultural Experiences,53,Mid-range,58,53,746,1.0,940.0
+Mumbai,10,Hostel,29,Cultural Experiences,84,Budget,18,194,300,1.0,1804.0
+Dubai,5,Airbnb,122,Adventure Sports,144,High-end,113,181,571,0.8,2117.6
+Bangkok,12,Hostel,33,Cultural Experiences,57,Mid-range,56,53,300,0.8,1684.0
+Mumbai,14,Hotel,176,Sightseeing,42,Mid-range,38,50,300,0.8,3147.2000000000003
+Cairo,10,Hotel,156,Adventure Sports,126,High-end,92,120,300,1.2,4992.0
+Toronto,14,Hotel,124,Cultural Experiences,89,Budget,15,84,300,1.0,3576.0
+Sydney,2,Airbnb,51,Sightseeing,41,High-end,85,57,1329,1.2,2088.0
+Istanbul,12,Hotel,163,Adventure Sports,133,High-end,131,85,584,1.0,5793.0
+Tokyo,6,Hostel,22,Adventure Sports,125,Mid-range,50,172,505,0.8,1487.2
+San Francisco,11,Airbnb,56,Cultural Experiences,96,High-end,82,92,405,1.2,3685.2
+Cairo,1,Hostel,40,Adventure Sports,94,High-end,142,76,300,0.8,521.6
+Shanghai,3,Hotel,117,Sightseeing,38,Mid-range,46,81,300,1.0,984.0
+Amsterdam,5,Hotel,166,Adventure Sports,98,Mid-range,41,127,300,1.0,1952.0
+Sydney,4,Hotel,141,Sightseeing,55,Mid-range,45,170,1043,1.0,2177.0
+Amsterdam,3,Airbnb,88,Adventure Sports,131,Mid-range,44,195,300,0.8,1027.2
+New York,10,Hostel,28,Cultural Experiences,78,High-end,134,65,298,1.0,2763.0
+Amsterdam,13,Airbnb,124,Sightseeing,51,High-end,143,148,300,0.8,3665.6000000000004
+Barcelona,5,Airbnb,73,Adventure Sports,100,Budget,10,96,693,1.2,2044.8
+Barcelona,11,Hotel,159,Adventure Sports,130,Budget,10,80,686,1.0,4055.0
+Mumbai,8,Airbnb,95,Adventure Sports,117,High-end,146,53,300,1.0,3217.0
+Bangkok,11,Airbnb,68,Sightseeing,49,Budget,19,66,300,1.0,1862.0
+Los Angeles,4,Hotel,167,Sightseeing,54,High-end,94,88,300,1.2,1977.6
+Istanbul,1,Airbnb,139,Sightseeing,58,Budget,13,97,655,1.0,962.0
+San Francisco,11,Hotel,141,Cultural Experiences,53,Mid-range,33,88,386,0.8,2376.8
+Rome,7,Hotel,131,Cultural Experiences,56,Budget,11,181,375,0.8,1553.6000000000001
+Berlin,8,Hotel,138,Sightseeing,57,Mid-range,46,79,476,1.0,2483.0
+Toronto,3,Hotel,135,Adventure Sports,107,Mid-range,48,71,300,1.0,1241.0
+New York,6,Airbnb,146,Cultural Experiences,53,Mid-range,40,115,514,1.2,2475.6
+Cairo,2,Hotel,135,Sightseeing,51,Mid-range,49,157,300,1.2,1112.3999999999999
+Berlin,7,Hotel,102,Adventure Sports,124,Budget,12,61,586,1.2,2775.6
+Rome,8,Airbnb,122,Cultural Experiences,52,High-end,137,85,648,1.0,3221.0
+Paris,6,Airbnb,57,Adventure Sports,145,Mid-range,30,67,554,1.2,2415.6
+Berlin,6,Hostel,20,Adventure Sports,113,Budget,11,139,624,1.2,1952.3999999999999
+Berlin,5,Airbnb,119,Adventure Sports,134,Mid-range,58,50,489,0.8,1675.2
+Moscow,8,Airbnb,90,Adventure Sports,80,Budget,16,176,300,1.2,2356.7999999999997
+Sydney,1,Hostel,26,Cultural Experiences,57,Budget,13,139,807,0.8,833.6
+London,10,Airbnb,117,Cultural Experiences,72,Budget,17,136,300,0.8,1996.8000000000002
+San Francisco,4,Airbnb,62,Cultural Experiences,87,High-end,138,139,544,1.2,2197.2
+Tokyo,4,Airbnb,98,Sightseeing,35,Budget,12,183,626,0.8,1111.2
+Los Angeles,3,Airbnb,109,Cultural Experiences,71,Budget,15,119,300,1.0,1004.0
+Barcelona,3,Hostel,21,Adventure Sports,104,High-end,128,93,586,1.0,1438.0
+Rome,4,Airbnb,109,Cultural Experiences,67,High-end,119,135,553,1.2,2241.6
+Sydney,11,Airbnb,54,Adventure Sports,96,Budget,12,68,1224,1.0,3074.0
+Berlin,1,Hostel,31,Sightseeing,58,High-end,144,150,549,0.8,745.6
+New York,14,Hotel,126,Adventure Sports,91,Mid-range,34,195,283,1.0,3992.0
+Toronto,11,Hostel,40,Adventure Sports,85,Mid-range,56,144,300,1.2,2922.0
+London,13,Hotel,107,Adventure Sports,106,High-end,85,150,300,1.2,5188.8
+Sydney,11,Hostel,25,Sightseeing,37,High-end,92,79,986,0.8,2207.2000000000003
+Amsterdam,2,Hostel,27,Cultural Experiences,68,Budget,12,82,300,1.2,715.1999999999999
+Berlin,9,Airbnb,99,Cultural Experiences,91,High-end,98,61,682,1.0,3335.0
+Mumbai,10,Hotel,166,Sightseeing,30,Budget,19,167,300,1.2,3140.4
+Berlin,2,Airbnb,93,Adventure Sports,136,Mid-range,54,143,687,0.8,1116.8
+Los Angeles,5,Hotel,157,Cultural Experiences,78,High-end,99,186,300,1.2,2587.2
+New York,9,Hostel,22,Sightseeing,42,Budget,13,198,212,1.0,1103.0
+Amsterdam,9,Hostel,41,Cultural Experiences,98,Budget,16,125,300,0.8,1456.0
+London,8,Hotel,169,Sightseeing,32,Mid-range,31,78,300,1.0,2234.0
+Barcelona,1,Airbnb,51,Adventure Sports,119,High-end,101,166,344,0.8,624.8000000000001
+Los Angeles,1,Airbnb,136,Cultural Experiences,63,Mid-range,48,64,300,1.2,733.1999999999999
+Cairo,9,Airbnb,93,Sightseeing,32,Budget,18,51,300,0.8,1310.4
+Bangkok,13,Airbnb,51,Cultural Experiences,97,Budget,14,166,300,0.8,2057.6
+Rome,11,Hostel,25,Cultural Experiences,94,High-end,86,67,426,1.2,3297.6
+Berlin,8,Hostel,36,Cultural Experiences,69,Budget,17,52,413,1.0,1441.0
+Sydney,10,Hostel,22,Cultural Experiences,98,High-end,146,184,1444,1.2,5145.599999999999
+Los Angeles,9,Hostel,21,Sightseeing,42,Mid-range,47,157,300,0.8,1157.6000000000001
+Toronto,7,Hostel,42,Adventure Sports,140,High-end,95,144,300,1.2,2859.6
+Paris,3,Airbnb,79,Sightseeing,35,High-end,130,171,575,0.8,1182.4
+Toronto,3,Airbnb,57,Sightseeing,46,Budget,11,60,300,1.2,842.4
+Mumbai,2,Airbnb,71,Sightseeing,43,Budget,13,117,300,1.2,805.1999999999999
+Bangkok,5,Airbnb,93,Adventure Sports,141,High-end,91,172,300,1.0,2097.0
+Amsterdam,12,Hostel,45,Cultural Experiences,57,Budget,14,162,300,0.8,1483.2
+Paris,12,Hostel,23,Cultural Experiences,92,Budget,14,147,504,1.0,2199.0
+Rio de Janeiro,3,Hostel,24,Cultural Experiences,69,Budget,10,142,300,0.8,600.8000000000001
+Berlin,14,Hotel,176,Adventure Sports,118,High-end,85,71,636,1.2,7215.599999999999
+Rome,6,Airbnb,142,Cultural Experiences,70,Budget,10,176,684,0.8,1753.6000000000001
+London,2,Airbnb,80,Adventure Sports,128,High-end,84,183,300,1.0,1067.0
+Sydney,12,Hostel,34,Cultural Experiences,91,Budget,18,74,1410,1.0,3200.0
+Cairo,3,Airbnb,104,Cultural Experiences,92,Mid-range,57,134,300,1.0,1193.0
+London,5,Airbnb,129,Sightseeing,51,Budget,14,104,300,0.8,1099.2
+Tokyo,12,Hostel,29,Adventure Sports,88,Budget,15,193,1472,1.0,3249.0
+Paris,11,Hotel,161,Sightseeing,53,High-end,138,144,572,1.0,4588.0
+Berlin,11,Hotel,129,Sightseeing,34,High-end,112,191,357,1.0,3573.0
+Shanghai,1,Hotel,154,Sightseeing,46,Budget,11,168,300,1.2,814.8
+Istanbul,13,Hostel,35,Adventure Sports,120,Mid-range,45,58,727,1.2,4062.0
+Rome,1,Airbnb,61,Adventure Sports,96,Budget,18,199,518,0.8,713.6
+Istanbul,10,Hostel,36,Cultural Experiences,73,Budget,12,91,508,0.8,1447.2
+Bangkok,9,Hostel,35,Sightseeing,50,Mid-range,51,102,300,1.0,1626.0
+New York,7,Airbnb,61,Cultural Experiences,88,High-end,148,123,478,1.2,3216.0
+Cairo,1,Hotel,107,Sightseeing,52,Budget,11,88,300,1.0,558.0
+Barcelona,12,Hotel,183,Adventure Sports,120,High-end,126,171,473,1.0,5792.0
+New York,14,Hostel,22,Adventure Sports,118,High-end,118,64,527,1.2,5043.599999999999
+Toronto,8,Hotel,115,Adventure Sports,92,Mid-range,33,172,300,1.2,2870.4
+Paris,3,Hostel,49,Sightseeing,40,Mid-range,30,160,563,1.2,1296.0
+Rome,8,Hostel,32,Adventure Sports,98,High-end,92,180,614,0.8,2056.0
+San Francisco,5,Airbnb,72,Sightseeing,40,Budget,13,132,310,0.8,853.6
+Mumbai,1,Airbnb,141,Cultural Experiences,62,High-end,133,59,300,1.0,695.0
+San Francisco,7,Airbnb,54,Sightseeing,43,Budget,16,141,386,0.8,1054.4
+London,5,Hostel,39,Cultural Experiences,94,Budget,16,78,300,1.2,1347.6
+Amsterdam,6,Airbnb,114,Sightseeing,30,Mid-range,43,84,300,1.2,1807.2
+Berlin,6,Hotel,129,Cultural Experiences,89,Budget,16,55,568,0.8,1621.6000000000001
+Tokyo,8,Hotel,120,Adventure Sports,98,Budget,12,189,1434,1.0,3463.0
+Mumbai,9,Hostel,39,Cultural Experiences,61,High-end,133,160,300,1.0,2557.0
+Rome,2,Hostel,25,Adventure Sports,140,Mid-range,58,87,528,0.8,848.8000000000001
+Bangkok,9,Airbnb,71,Adventure Sports,91,Budget,17,126,300,1.0,2037.0
+Shanghai,12,Hostel,37,Cultural Experiences,97,Budget,13,142,300,1.0,2206.0
+Rio de Janeiro,11,Hostel,27,Sightseeing,30,Mid-range,58,196,300,1.0,1761.0
+London,10,Hotel,131,Sightseeing,42,High-end,103,116,300,1.2,3811.2
+San Francisco,9,Hotel,132,Sightseeing,55,Mid-range,47,185,355,1.2,3175.2
+New York,13,Airbnb,65,Sightseeing,36,Mid-range,39,57,388,0.8,1812.0
+Bangkok,10,Hostel,31,Sightseeing,57,Budget,18,171,300,1.2,1837.2
+Tokyo,10,Hostel,25,Adventure Sports,148,Budget,18,133,771,1.0,2814.0
+Tokyo,7,Hotel,197,Sightseeing,37,High-end,87,181,1386,1.2,4576.8
+Paris,1,Hostel,48,Adventure Sports,104,Budget,19,134,301,0.8,484.8
+Barcelona,7,Hotel,113,Adventure Sports,125,Budget,19,94,545,1.2,2925.6
+Barcelona,10,Airbnb,85,Adventure Sports,109,Mid-range,46,185,509,1.0,3094.0
+London,5,Hotel,196,Cultural Experiences,94,Budget,11,136,300,1.0,1941.0
+San Francisco,6,Hostel,42,Cultural Experiences,96,High-end,85,65,485,0.8,1510.4
+Rome,10,Airbnb,115,Adventure Sports,128,Mid-range,55,126,658,1.2,4516.8
+Rio de Janeiro,7,Hotel,184,Cultural Experiences,96,High-end,148,58,300,1.2,4024.7999999999997
+Tokyo,14,Hotel,101,Sightseeing,49,Mid-range,57,109,512,1.2,4222.8
+Rome,5,Airbnb,140,Sightseeing,47,Budget,18,127,395,1.0,1547.0
+Rome,7,Airbnb,122,Adventure Sports,97,Mid-range,34,126,520,0.8,1933.6000000000001
+Los Angeles,9,Hotel,164,Sightseeing,31,Mid-range,47,120,300,1.2,3117.6
+Rio de Janeiro,3,Hostel,30,Adventure Sports,147,Budget,19,64,300,1.0,952.0
+Sydney,8,Hotel,166,Adventure Sports,112,Budget,13,120,737,1.0,3185.0
+Cairo,2,Airbnb,101,Sightseeing,33,High-end,120,151,300,1.0,959.0
+Istanbul,11,Hotel,161,Cultural Experiences,67,High-end,128,71,493,1.2,5376.0
+Shanghai,7,Airbnb,72,Sightseeing,34,Budget,10,162,300,1.2,1528.8
+Barcelona,13,Airbnb,75,Sightseeing,48,Budget,16,50,637,1.2,2992.7999999999997
+Barcelona,2,Hostel,23,Adventure Sports,107,Budget,12,59,568,1.2,1093.2
+Dubai,14,Airbnb,131,Adventure Sports,119,Mid-range,39,159,670,1.2,5850.0
+Barcelona,4,Airbnb,104,Adventure Sports,94,Mid-range,31,162,393,1.2,1765.2
+Rio de Janeiro,7,Hostel,25,Adventure Sports,120,Mid-range,54,99,300,1.2,2150.4
+Los Angeles,3,Airbnb,84,Cultural Experiences,88,Budget,12,61,300,1.2,1095.6
+Berlin,2,Hostel,41,Cultural Experiences,51,High-end,81,138,448,1.2,1118.3999999999999
+Paris,11,Hostel,30,Cultural Experiences,78,Budget,17,161,411,1.0,1947.0
+Amsterdam,10,Airbnb,64,Adventure Sports,145,Mid-range,39,127,300,1.2,3488.4
+Paris,7,Airbnb,135,Adventure Sports,130,Mid-range,35,170,354,0.8,2099.2000000000003
+Mumbai,1,Hotel,159,Adventure Sports,89,Budget,15,72,300,1.0,635.0
+Paris,14,Hostel,24,Cultural Experiences,63,Budget,19,183,636,1.2,2763.6
+Amsterdam,8,Hotel,111,Adventure Sports,130,Mid-range,40,74,300,0.8,2097.6
+New York,3,Airbnb,98,Sightseeing,51,Mid-range,52,67,315,1.2,1182.0
+Rio de Janeiro,12,Hotel,141,Sightseeing,38,Mid-range,36,190,300,0.8,2456.0
+Barcelona,12,Hostel,25,Adventure Sports,118,Budget,15,92,442,0.8,1944.0
+Barcelona,13,Hotel,181,Sightseeing,57,Mid-range,49,127,500,0.8,3486.4
+Los Angeles,2,Hostel,32,Sightseeing,32,Mid-range,56,77,300,0.8,493.6
+Dubai,3,Airbnb,84,Cultural Experiences,69,High-end,120,195,679,1.0,1693.0
+Los Angeles,5,Airbnb,79,Adventure Sports,149,Budget,15,108,300,1.0,1623.0
+Berlin,11,Hostel,43,Adventure Sports,106,High-end,99,112,501,0.8,2672.8
+Berlin,8,Airbnb,79,Cultural Experiences,51,High-end,98,141,663,1.2,3153.6
+Tokyo,10,Airbnb,127,Sightseeing,58,Mid-range,49,105,978,0.8,2738.4
+Dubai,7,Airbnb,55,Sightseeing,35,Budget,12,160,1064,1.0,1938.0
+Los Angeles,7,Airbnb,116,Adventure Sports,82,Mid-range,44,186,300,1.2,2616.0
+Barcelona,12,Hostel,35,Sightseeing,45,Budget,11,117,683,1.0,1892.0
+Istanbul,7,Hotel,106,Cultural Experiences,79,High-end,109,95,579,1.0,2732.0
+Toronto,8,Hotel,151,Cultural Experiences,89,Budget,14,116,300,1.2,2937.6
+Amsterdam,1,Airbnb,63,Adventure Sports,81,Mid-range,31,185,300,0.8,528.0
+Amsterdam,4,Hotel,172,Cultural Experiences,66,Mid-range,51,55,300,0.8,1208.8
+Paris,13,Hotel,114,Cultural Experiences,90,Mid-range,32,73,612,0.8,3002.4
+Toronto,6,Airbnb,70,Adventure Sports,91,Budget,15,143,300,0.8,1199.2
+Dubai,9,Airbnb,84,Cultural Experiences,84,High-end,106,62,807,1.2,4002.0
+Sydney,13,Hotel,165,Cultural Experiences,92,High-end,89,74,1148,1.2,6864.0
+Berlin,2,Hostel,46,Cultural Experiences,50,Budget,18,197,481,1.2,1087.2
+Paris,1,Airbnb,51,Sightseeing,52,Mid-range,30,167,666,1.0,966.0
+Rome,13,Hostel,22,Adventure Sports,124,High-end,127,131,300,1.2,4776.0
+Paris,10,Hotel,181,Adventure Sports,141,Mid-range,35,160,343,0.8,3258.4
+Sydney,12,Airbnb,127,Adventure Sports,128,Budget,18,131,1238,1.0,4645.0
+New York,14,Hostel,39,Sightseeing,54,Mid-range,56,115,530,0.8,2184.8
+Istanbul,2,Airbnb,131,Sightseeing,52,High-end,138,94,497,0.8,986.4000000000001
+Rome,7,Hotel,109,Adventure Sports,103,High-end,81,163,507,1.2,3265.2
+Istanbul,3,Hostel,44,Sightseeing,54,Mid-range,58,112,664,1.2,1492.8
+Paris,10,Hotel,165,Adventure Sports,117,Budget,13,125,587,0.8,2929.6000000000004
+Berlin,2,Hotel,124,Sightseeing,57,Mid-range,30,163,570,0.8,924.0
+Cairo,14,Airbnb,103,Cultural Experiences,70,Budget,12,160,300,1.0,3050.0
+Amsterdam,11,Hostel,20,Cultural Experiences,92,Mid-range,55,196,300,1.2,2799.6
+Sydney,7,Hotel,135,Adventure Sports,97,High-end,89,84,639,1.0,2970.0
+Cairo,13,Hotel,194,Sightseeing,33,Budget,14,102,300,1.0,3535.0
+Toronto,13,Hostel,33,Sightseeing,32,Budget,15,75,300,1.0,1415.0
+Amsterdam,2,Hotel,164,Cultural Experiences,94,Budget,12,63,300,0.8,722.4000000000001
+Barcelona,3,Hotel,179,Cultural Experiences,58,High-end,127,167,536,1.0,1795.0
+Rome,11,Hostel,41,Sightseeing,50,Mid-range,50,94,691,1.0,2336.0
+Amsterdam,7,Hostel,33,Sightseeing,35,High-end,101,100,300,0.8,1266.4
+Sydney,14,Hostel,48,Sightseeing,55,Budget,13,168,571,1.2,2835.6
